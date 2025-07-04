@@ -1,0 +1,287 @@
+{
+  "home": {
+    "title": "Expert på Fönsterrenovering",
+    "description": "Förvandla ditt hem med våra professionella fönsterrenoveringstjänster. Vi kombinerar traditionellt hantverk med moderna tekniker."
+  },
+  "about": {
+    "title": "Om oss",
+    "description": "Vi är ett dedikerat team av proffs som specialiserar sig på fönsterrenovering och målningstjänster i Stockholm."
+  },
+  "projects": {
+    "title": "Våra projekt",
+    "list": [
+      {
+        "title": "Brf Värduren 1 Södertälje",
+        "images": [
+          {
+            "src": "/assets/project4/1.jpg",
+            "width": 800,
+            "height": 600
+          }
+        ]
+      },
+      {
+        "title": "Sällskapsvägen / Stora Essingen",
+        "images": [
+          {
+            "src": "/assets/project1/1.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project1/2.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project1/3.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project1/4.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project1/5.jpg",
+            "width": 800,
+            "height": 600
+          }
+        ]
+      },
+      {
+        "title": "Igelkottsvägen / Bromma",
+        "images": [
+          {
+            "src": "/assets/project2/1.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project2/2.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project2/3.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project2/4.jpg",
+            "width": 800,
+            "height": 600
+          }
+        ]
+      },
+      {
+        "title": "Djupdalsvägen / Bromma",
+        "images": [
+          {
+            "src": "/assets/project3/1.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project3/2.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project3/3.jpg",
+            "width": 800,
+            "height": 600
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontakta oss",
+    "name": "Namn",
+    "email": "E-post",
+    "message": "Meddelande",
+    "send": "Skicka"
+  },
+  "header": {
+    "home": "Hem",
+    "about": "Om oss",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "title": "Vi garanterar kvaliteten på dina fönster",
+    "contact": "Kontakta oss",
+    "phone": "+46704999277",
+    "instagram": "https://www.instagram.com/wikbloms_ltd?igsh=MWVoZTV3YnR3djMzYw==",
+    "email": "kontakt@wikbloms.se",
+    "address": "Ekbacksvägen 32, 168 69 Bromma",
+    "openingHours": "Mån-Fre: 07:00 - 16:00",
+    "copyright": "© 2024 Fönsterrenovering och målningstjänster. Alla rättigheter förbehållna.",
+    "followUs": "Följ oss",
+    "facebook": "Facebook",
+    "legal": "Juridiskt",
+    "termsAndConditions": "Villkor",
+    "privacyPolicy": "Integritetspolicy",
+    "allRightsReserved": "Alla rättigheter förbehållna.",
+    "logoSrc": "/assets/prietosLogo.jpg"
+  },
+  "hero": {
+    "title": "Wikblom's",
+    "videoSrc": "/assets/videohomprieto.mp4",
+    "subtitle": "Ditt drömhem börjar med oss",
+    "videoError": "Din webbläsare stöder inte videospelaren."
+  },
+  "CTA": {
+    "contactUs": "Kontakta oss",
+    "bookConsultation": "Boka en gratis konsultation",
+    "seeOurProjects": "Se våra projekt"
+  },
+  "imageComparison": {
+    "title": "Kvalitet Som Talar för Sig Själv",
+    "description": "Varje fönster vi restaurerar behandlas med största omsorg och uppmärksamhet på detaljer, vilket säkerställer både skönhet och funktionalitet i många år framöver."
+  },
+  "informative": {
+    "title": "Varför Välja Fönsterrenovering?",
+    "text1": "Historiska fönster är byggda med högkvalitativa material som kan hålla i generationer med rätt underhåll. Våra renoveringstjänster bevarar deras karaktär samtidigt som energieffektiviteten förbättras."
+  },
+  "whatWeDo": {
+    "title": "Vår Expertis inom Fönsterrenovering"
+  },
+  "weCover": {
+    "title": "Vi täcker upp för dig!",
+    "service1Title": "Professionell Fönsterrestaurering",
+    "service1Description": "Vi är specialiserade på att restaurera historiska fönster med traditionella tekniker och högkvalitativa material, samtidigt som vi bevarar deras ursprungliga karaktär och förbättrar funktionaliteten.",
+    "service2Title": "Energieffektiva Lösningar",
+    "service2Description": "Vår renoveringsprocess inkluderar moderna tätningstekniker och energieffektiva glasalternativ för att förbättra ditt hems komfort och minska energikostnaderna.",
+    "service3Title": "Glasbyte",
+    "service3Description": "Vi byter alla typer av glas, inklusive energiglas som sänker energikostnaderna.",
+    "service4Title": "Reparation av rötskador",
+    "service4Description": "Byte av delar eller hela fönsterkarmar vid skador."
+  },
+  "ourService": {
+    "title": "Vår tjänst",
+    "leftSection": {
+      "title": "ROT-avdrag Tillgängligt",
+      "description": "Utnyttja ROT-avdraget för hembförbättringar. Få upp till 50% rabatt på arbetskostnaden, vilket gör professionell fönsterrenovering mer överkomlig."
+    },
+    "rightSection": {
+      "title": "Gratis fönsterputsning",
+      "description": "Efter att vi har renoverat dina fönster, erbjuder vi en fri fönsterrengöringsservice så att du kan njuta av dina fönster."
+    }
+  },
+  "aboutUs": {
+    "title": "Om oss",
+    "slogan": "Bästa fönsterrenovering och målningstjänster i Stockholm",
+    "images": [
+      {
+        "src": "/assets/about/1.jpg",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "src": "/assets/about/2.jpg",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "src": "/assets/about/3.jpg",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "src": "/assets/about/3.jpg",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "descriptions": [
+      "Prietos Kompaniet började som en vision - att skapa något överlägset genom många års erfarenhet, förstärkt med disciplin och hårt arbete.",
+      "Det startades av en person och idag har vi stöd från flera mycket kompetenta arbetare på renoveringsmarknaden. Det är ett företag som är mycket stött av miljön genom att tillverka renoveringsprodukter med produkter som är godkända av arbetsmiljön.",
+      "Vi anser att din plånbok och vår gemensamma miljö måste behandlas på samma sätt - på ett hållbart sätt",
+      "Du berättar vad du behöver, så tar vi hand om allt annat - Vi garanterar bästa kvalitet!"
+    ],
+    "titles": [
+      "Från en vision till ett företag",
+      "Från en person till ett kompetent team",
+      "Hållbarhet i hjärtat",
+      "Kunden först, alltid"
+    ]
+  },
+  "contactForm": {
+    "title": "Kontakta oss",
+    "or": "eller",
+    "label": {
+      "name": "Name",
+      "email": "E-post",
+      "message": "Meddelande",
+      "send": "Skicka",
+      "sending": "Skickar...",
+      "phone": "Telefonnummer"
+    },
+    "placeholder": {
+      "name": "Ditt namn",
+      "email": "Din e-post",
+      "message": "Ditt meddelande",
+      "phone": "Ditt telefonnummer"
+    },
+    "validation": {
+      "nameRequired": "Namn är obligatoriskt",
+      "contactRequired": "Ange antingen e-post eller telefonnummer",
+      "tooManyRequests": "Vänta 10 sekunder innan du skickar igen"
+    }
+  },
+  "privacy": {
+    "title": "Vår integritetspolicy",
+    "snippets": [
+      {
+        "title": "",
+        "text": "Vi värnar om din integritet och därför är vi måna om att skydda de personuppgifter vi har om dig. All behandling av dina personuppgifter sker i enlighet med dataskyddsförordningen (GDPR) och vår policy beskriver vilka rättigheter du har och hur du gör dem gällande."
+      },
+      {
+        "title": "Vad är en personuppgift?",
+        "text": "Med personuppgifter menas all slags information som direkt eller indirekt kan kopplas till en person. Exempel på personuppgifter är: namn, adress, telefonnummer och personnummer. Även krypterade uppgifter och olika slags elektroniska identiteter (t.ex. IP-nummer) är personuppgifter om de kan kopplas till en person. Några vanliga exempel är: att samla in personuppgifter, att registrera och organisera dem i ett kundregister när du kontaktar oss för att få en offert, att lagra dem i t.ex. IT-system, att föra över dem till någon annan och att radera dem."
+      },
+      {
+        "title": "Varför samlar vi in uppgifter?",
+        "text": ""
+      },
+      {
+        "title": "Hantera offertförfrågan",
+        "text": "När du kontaktar oss för att få en offert sparar vi dina kontaktuppgifter för att kunna svara på din förfrågan. Vi vidarebefordrar även ritningsunderlag till våra underleverantörer där ditt namn förekommer."
+      },
+      {
+        "title": "Hantera kontaktförfråga",
+        "text": ""
+      },
+      {
+        "title": "Hantera beställning",
+        "text": "Utöver att dina uppgifter används för hantera din beställning kan uppgifterna användas för att informera dig om vad som är på gång och för att svara på frågor som du ställer till oss."
+      },
+      {
+        "title": "Vem samlas personuppgifterna in från?",
+        "text": "Personuppgifterna samlas in direkt från dig i samband med att du kontaktar oss. Personuppgifterna kan även samlas in från statens personadressregister för att se till att vi har rätt uppgifter till dig, t.ex. om du flyttar."
+      },
+      {
+        "title": "Vem delas personuppgifterna med?",
+        "text": "Dina personuppgifter delas med olika samarbetspartners som t.ex. underleverantörer av tjänster och med våra revisorer, vår och din bank och leverantörer av våra IT-system som vi behöver för vår verksamhet."
+      },
+      {
+        "title": "Rättslig grund till hantering av personuppgifter",
+        "text": "Dina personuppgifter sparas under tiden du har en beställning med garantitid och för vår bokföring. Vi sparar dina personuppgifter under garantitid, så att du kan kontakta oss om något är fel. Vi sparar dina uppgifter som behövs för vår bokföring (exempelvis alla beställningar, fakturor och betalningar) och skatteunderlag. Enligt lag måste dessa uppgifter sparas i sju år. För att inte behandla personuppgifter i onödan och utan anledning raderar vi regelbundet de personuppgifter som inte längre behövs. Uppgifterna raderas efter ovanstående kriterier.\nNär dina personuppgifter behandlas av oss har du följande rättigheter:\n\n Du har rätt att få veta vilka personuppgifter som vi behandlar om dig och kan be oss om en kopia av dessa.\nDu har rätt att få felaktiga personuppgifter om dig rättade.\nDu har rätt att be oss radera dina personuppgifter (t.ex. om vi inte har anledning att behandla dem eller om du inte längre samtycker). Även om du ber oss radera dina personuppgifter kan vi ibland behöva spara vissa personuppgifter, t.ex. när lagen kräver att vi gör det eller om behandlingen krävs för att kunna försvara eller göra gällande våra rättsliga intressen."
+      },
+      {
+        "title": "Våra skyldigheter",
+        "text": "Våra skyldigheter är att vara ansvarig för hur dina personuppgifter behandlas och bestämma för vilka ändamål uppgifterna ska användas till."
+      },
+      {
+        "title": "Kontaktuppgifter om du har frågor eller vill utöva dina rättigheter",
+        "text": "Om du har frågor om hur vi behandlar dina personuppgifter eller om du vill använda de rättigheter du har när vi behandlar dina personuppgifter är du välkommen att kontakta per e-post: kontakt@prietoskompaniet.se"
+      },
+      {
+        "title": "Säkerhetsåtgärder",
+        "text": "Dina personuppgifter behandlas enligt lagen och på ett säkert sätt. Rutiner finns för att skydda dina personuppgifter och värna din integritet. Till exempel behandlar vi bara sådana personuppgifter som vi verkligen behöver och är noga med att radera personuppgifter när de inte behövs längre. Kontinuerligt uppdateras de system som används för att behandla personuppgifter så att de är tillräckligt säkra t.ex. genom anti-virusprogram, brandväggar och system för att upptäcka personuppgifter i olika IT-system. Vi är personuppgiftsansvariga gentemot våra kunder. Vi kräver således och kontrollerar även att våra samarbetspartners behandlar dina personuppgifter på ett säkert sätt och enligt lag."
+      }
+    ]
+  }
+}

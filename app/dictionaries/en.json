@@ -1,0 +1,280 @@
+{
+  "home": {
+    "title": "Expert Window Renovation Services",
+    "description": "Transform your home with our professional window renovation and restoration services. We combine traditional craftsmanship with modern techniques."
+  },
+  "about": {
+    "title": "About Us",
+    "description": "We are a dedicated team of professionals specializing in window renovation and painting services in Stockholm."
+  },
+  "projects": {
+    "title": "Our Projects",
+    "list": [
+      {
+        "title": "Brf Värduren 1 Södertälje",
+        "images": [
+          {
+            "src": "/assets/project4/1.jpg",
+            "width": 800,
+            "height": 600
+          }
+        ]
+      },
+      {
+        "title": "Sällskapsvägen / Stora Essingen",
+        "images": [
+          {
+            "src": "/assets/project1/1.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project1/2.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project1/3.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project1/4.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project1/5.jpg",
+            "width": 800,
+            "height": 600
+          }
+        ]
+      },
+      {
+        "title": "Igelkottsvägen / Bromma",
+        "images": [
+          {
+            "src": "/assets/project2/1.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project2/2.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project2/3.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project2/4.jpg",
+            "width": 800,
+            "height": 600
+          }
+        ]
+      },
+      {
+        "title": "Djupdalsvägen / Bromma",
+        "images": [
+          {
+            "src": "/assets/project3/1.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project3/2.jpg",
+            "width": 800,
+            "height": 600
+          },
+          {
+            "src": "/assets/project3/3.jpg",
+            "width": 800,
+            "height": 600
+          }
+        ]
+      }
+    ]
+  },
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "logoSrc": "/assets/prietosLogo.jpg"
+  },
+  "footer": {
+    "title": "We guarantee the quality of your windows",
+    "contact": "Contact us",
+    "phone": "+46704999277",
+    "instagram": "https://www.instagram.com/wikbloms_ltd?igsh=MWVoZTV3YnR3djMzYw==",
+    "email": "kontakt@wikbloms.se",
+    "address": "Ekbacksvägen 32, 168 69 Bromma",
+    "openingHours": "Mon-Fri: 07:00 - 16:00",
+    "copyright": "© 2024 Window Renovation and Painting Services. All rights reserved.",
+    "followUs": "Follow Us",
+    "facebook": "Facebook",
+    "legal": "Legal",
+    "termsAndConditions": "Terms and Conditions",
+    "privacyPolicy": "Privacy Policy",
+    "allRightsReserved": "All rights reserved.",
+    "logoSrc": "/assets/prietosLogo.jpg"
+  },
+  "hero": {
+    "title": "Wikblom's",
+    "videoSrc": "/assets/videohomprieto.mp4",
+    "subtitle": "Your dream home starts with us",
+    "videoError": "Your browser does not support the video tag."
+  },
+  "CTA": {
+    "contactUs": "Contact Us",
+    "bookConsultation": "Book a Free Consultation",
+    "seeOurProjects": "See Our Projects"
+  },
+  "imageComparison": {
+    "title": "Quality That Speaks for Itself",
+    "description": "Every window we restore is treated with the utmost care and attention to detail, ensuring both beauty and functionality for years to come."
+  },
+  "informative": {
+    "title": "Why Choose Window Renovation?",
+    "text1": "Historic windows are built with high-quality materials that can last for generations with proper maintenance. Our renovation services preserve their character while improving energy efficiency."
+  },
+  "whatWeDo": {
+    "title": "Our Expertise in Window Renovation"
+  },
+  "weCover": {
+    "title": "We got you covered!",
+    "service1Title": "Professional Window Restoration",
+    "service1Description": "We specialize in restoring historic windows using traditional techniques and high-quality materials, preserving their original character while improving functionality.",
+    "service2Title": "Energy-Efficient Solutions",
+    "service2Description": "Our renovation process includes modern weatherization techniques and energy-efficient glass options to improve your home's comfort and reduce energy costs.",
+    "service3Title": "Glass replacement",
+    "service3Description": "We replace all types of glass, including energy glass that reduces energy costs.",
+    "service4Title": "Repairing rot damage",
+    "service4Description": "Replacing parts or entire window frames in case of damage."
+  },
+  "ourService": {
+    "title": "Our Service.",
+    "leftSection": {
+      "title": "ROT Tax Deduction Available",
+      "description": "Take advantage of the ROT tax deduction for home improvements. Get up to 50% off labor costs, making professional window renovation more affordable."
+    },
+    "rightSection": {
+      "title": "Free window cleaning",
+      "description": "After we have renovated your windows, we offer a free window cleaning service so that you can fully enjoy your windows."
+    }
+  },
+  "aboutUs": {
+    "slogan": "Best Windows in Stockholm",
+    "images": [
+      {
+        "src": "/assets/about/1.jpg",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "src": "/assets/about/2.jpg",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "src": "/assets/about/3.jpg",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "src": "/assets/about/3.jpg",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "descriptions": [
+      "Prietos Kompaniet began as a vision - to create something superior through years of experience, reinforced with discipline and hard work.",
+      "What started as a one-man business became a team of skilled professionals who all share the same commitment to high-quality.",
+      "We believe that your wallet and our shared environment must be treated the same way - sustainably",
+      "You tell us what you need, and we'll take care of everything else - We guarantee the best quality!"
+    ],
+    "titles": [
+      "From a vision to a company",
+      "From one person to a competent team",
+      "Sustainability at heart",
+      "Customer first, always"
+    ]
+  },
+  "contactForm": {
+    "title": "Contact Us",
+    "or": "or",
+    "label": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send",
+      "sending": "Sending...",
+      "phone": "Phone Number"
+    },
+    "placeholder": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "phone": "Your Phone Number"
+    },
+    "validation": {
+      "nameRequired": "Name is required",
+      "contactRequired": "Either email or phone number is required",
+      "tooManyRequests": "Please wait 10 seconds before submitting again"
+    }
+  },
+  "privacy": {
+    "title": "Our Privacy Policy",
+    "snippets": [
+      {
+        "title": "",
+        "text": "We care about your privacy and therefore we are committed to protecting the personal data we have about you. All processing of your personal data is carried out in accordance with the General Data Protection Regulation (GDPR) and our policy describes what rights you have and how to exercise them."
+      },
+      {
+        "title": "What is personal data?",
+        "text": "Personal data means any information that can directly or indirectly be linked to a person. Examples of personal data are: name, address, phone number, and personal identification number. Even encrypted data and various types of electronic identifiers (e.g., IP numbers) are personal data if they can be linked to a person. Common examples include: collecting personal data, registering and organizing them in a customer register when you contact us for a quote, storing them in IT systems, transferring them to someone else, and deleting them."
+      },
+      {
+        "title": "Why do we collect data?",
+        "text": ""
+      },
+      {
+        "title": "Handle quote requests",
+        "text": "When you contact us for a quote, we save your contact information to respond to your inquiry. We also forward drawing documentation to our suppliers where your name appears."
+      },
+      {
+        "title": "Handle contact requests",
+        "text": ""
+      },
+      {
+        "title": "Handle orders",
+        "text": "In addition to using your information to handle your order, the information may be used to inform you about what's happening and to answer questions you ask us."
+      },
+      {
+        "title": "Who is personal data collected from?",
+        "text": "Personal data is collected directly from you when you contact us. Personal data may also be collected from the state's personal address register to ensure we have the correct information about you, e.g., if you move."
+      },
+      {
+        "title": "Who is personal data shared with?",
+        "text": "Your personal data is shared with various partners such as service subcontractors and with our auditors, our and your bank, and suppliers of our IT systems that we need for our operations."
+      },
+      {
+        "title": "Legal basis for handling personal data",
+        "text": "Your personal data is stored during the time you have an order with warranty period and for our accounting. We keep your personal data during the warranty period so you can contact us if something is wrong. We save your information needed for our accounting (such as all orders, invoices, and payments) and tax documentation. By law, these records must be kept for seven years. To avoid processing personal data unnecessarily and without reason, we regularly delete personal data that is no longer needed. Data is deleted according to the above criteria.\nWhen your personal data is processed by us, you have the following rights:\n\nYou have the right to know what personal data we process about you and can request a copy of this.\nYou have the right to have incorrect personal data about you corrected.\nYou have the right to request that we delete your personal data (e.g., if we have no reason to process them or if you no longer consent). Even if you ask us to delete your personal data, we may sometimes need to save certain personal data, e.g., when the law requires it or if processing is required to defend or assert our legal interests."
+      },
+      {
+        "title": "Our obligations",
+        "text": "Our obligations are to be responsible for how your personal data is processed and determine for what purposes the data should be used."
+      },
+      {
+        "title": "Contact information if you have questions or want to exercise your rights",
+        "text": "If you have questions about how we process your personal data or if you want to use the rights you have when we process your personal data, you are welcome to contact us by email: contact@prietoskompaniet.se"
+      },
+      {
+        "title": "Security measures",
+        "text": "Your personal data is processed according to law and in a secure manner. Procedures exist to protect your personal data and safeguard your privacy. For example, we only process such personal data that we really need and are careful to delete personal data when they are no longer needed. The systems used to process personal data are continuously updated to be sufficiently secure, e.g., through anti-virus programs, firewalls, and systems to detect personal data in various IT systems. We are data controllers in relation to our customers. We thus require and verify that our partners process your personal data in a secure manner and according to law."
+      }
+    ]
+  }
+}

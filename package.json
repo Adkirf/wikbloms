@@ -1,0 +1,51 @@
+{
+  "name": "prietos",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@formatjs/intl-localematcher": "^0.5.6",
+    "@radix-ui/react-dialog": "^1.1.2",
+    "@radix-ui/react-icons": "^1.3.0",
+    "@radix-ui/react-label": "^2.1.0",
+    "@radix-ui/react-select": "^2.1.2",
+    "@radix-ui/react-separator": "^1.1.0",
+    "@radix-ui/react-slot": "^1.1.0",
+    "@types/nodemailer": "^6.4.16",
+    "@use-gesture/react": "^10.3.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "embla-carousel-react": "^8.3.1",
+    "lucide-react": "^0.454.0",
+    "negotiator": "^1.0.0",
+    "next": "14.2.16",
+    "nodemailer": "^6.9.16",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-intersection-observer": "^9.13.1",
+    "react-masonry-css": "^1.0.16",
+    "react-spring": "^9.7.4",
+    "react-use": "^17.5.1",
+    "sharp": "^0.33.5",
+    "tailwind-merge": "^2.5.4",
+    "tailwindcss-animate": "^1.0.7",
+    "vaul": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/negotiator": "^0.6.3",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.16",
+    "file-loader": "^6.2.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,34 @@
+.text-content {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 0.5s forwards;
+    transition: opacity 0.5s ease-out;
+}
+
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Smooth transition for image container */
+.image-container {
+    will-change: transform, width;
+    transition: all 0.3s ease-out;
+}
+
+@media (max-width: 768px) {
+    .two-column {
+        flex-direction: column;
+    }
+
+    .image-column,
+    .text-column {
+        width: 100%;
+    }
+
+    .image-column {
+        height: 50vh;
+    }
+} 
