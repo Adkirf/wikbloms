@@ -1,5 +1,4 @@
 import { getDictionary } from "../dictionaries";
-import { Card, CardContent, CardTitle, CardDescription } from "@/components/ui/card";
 
 export default async function Terms({ params: { lang } }: { params: { lang: string } }) {
     const dict = await getDictionary(lang);

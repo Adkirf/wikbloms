@@ -1,5 +1,6 @@
 import '@/app/globals.css'
 import { Metadata } from 'next'
+import Script from 'next/script'
 
 export async function generateStaticParams() {
   return [{ lang: 'en' }, { lang: 'es' }]
@@ -21,7 +22,8 @@ export default function Root({
     <html lang={params.lang} suppressHydrationWarning>
       <head>
         {/* Google Tag Manager */}
-        <script
+        <Script
+          id="google-tag-manager"
           dangerouslySetInnerHTML={{
             __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
             new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -29,7 +31,7 @@ export default function Root({
             'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
           })(window,document,'script','dataLayer','GTM-P65RKD4W');`,
           }}
-        ></script>
+        ></Script>
         {/* End Google Tag Manager */}
         <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
