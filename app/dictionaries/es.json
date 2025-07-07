@@ -1,7 +1,7 @@
 {
   "home": {
-    "title": "Servicios completos de mejora y mantenimiento del hogar",
-    "description": "Mejora tu espacio con nuestros servicios profesionales de limpieza, pintura y renovación. Combinamos artesanía con resultados confiables."
+    "title": "Servicios Completos de Construcción y Mantenimiento del Hogar",
+    "description": "Mejora tu espacio con nuestros servicios profesionales de limpieza, pintura y construcción. Combinamos artesanía con resultados confiables."
   },
   "about": {
     "title": "Sobre nosotros",
@@ -52,7 +52,7 @@
     "logoSrc": "/assets/prietosLogo.jpg"
   },
   "footer": {
-    "title": "Garantizamos la calidad de tus mejoras en el hogar",
+    "title": "Tu hogar soñado comienza con nosotros",
     "contact": "Contáctanos",
     "phone": "+46704999277",
     "instagram": "https://www.instagram.com/wikbloms_ltd?igsh=MWVoZTV3YnR3djMzYw==",
@@ -88,7 +88,7 @@
     "text1": "Un hogar bien mantenido mejora la comodidad, el valor y la eficiencia energética. Nuestros servicios están diseñados para mantener tu hogar limpio, hermoso y funcional durante todo el año."
   },
   "whatWeDo": {
-    "title": "Nuestra experiencia en mantenimiento y renovación del hogar"
+    "title": "Nuestra experiencia en espacios privados y comerciales"
   },
   "weCover": {
     "title": "¡Te cubrimos!",
@@ -96,8 +96,8 @@
     "service1Description": "Desde limpiezas profundas hasta mantenimiento recurrente, te ayudamos a mantener tu hogar fresco, saludable y reluciente.",
     "service2Title": "Pintura interior y exterior",
     "service2Description": "Pintamos paredes, fachadas, molduras y todo lo demás, utilizando pinturas y acabados de alta calidad que resisten el paso del tiempo.",
-    "service3Title": "Renovación de habitaciones y superficies",
-    "service3Description": "Transforma habitaciones, paredes, techos y más: nuestros servicios de renovación mejoran tanto la apariencia como la estructura.",
+    "service3Title": "Trabajos de renovación y construcción",
+    "service3Description": "Transforma techos, paredes, techos, y más — nuestro equipo de construcción mejora tanto la apariencia como la estructura.",
     "service4Title": "Trabajos de techado y construcción",
     "service4Description": "Realizamos reparaciones de techos, reconstrucciones y otros proyectos relacionados con la construcción para mantener tu hogar seguro y eficiente."
   },
@@ -109,7 +109,7 @@
     },
     "leftSection": {
       "title": "Limpieza posterior gratuita",
-      "description": "Después de cada proyecto de renovación o pintura, ofrecemos un servicio de limpieza gratuito para que puedas disfrutar de tu espacio renovado de inmediato."
+      "description": "Después de cada proyecto de construcción o pintura, ofrecemos un servicio de limpieza gratuito para que puedas disfrutar de tu espacio renovado de inmediato."
     }
   },
   "aboutUs": {

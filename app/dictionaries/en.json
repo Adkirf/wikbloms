@@ -1,7 +1,7 @@
 {
   "home": {
-    "title": "Complete Home Improvement & Maintenance Services",
-    "description": "Enhance your living space with our professional cleaning, painting, and renovation services. We combine craftsmanship with dependable results."
+    "title": "Complete Home Construction & Maintenance Services",
+    "description": "Enhance your space with our professional cleaning, painting, and construcitons services. We combine craftsmanship with dependable results."
   },
   "about": {
     "title": "About Us",
@@ -104,7 +104,7 @@
     "logoSrc": "/assets/prietosLogo.jpg"
   },
   "footer": {
-    "title": "We guarantee the quality of your home improvements",
+    "title": "Your dream home starts with us",
     "contact": "Contact us",
     "phone": "+46704999277",
     "instagram": "https://www.instagram.com/wikbloms_ltd?igsh=MWVoZTV3YnR3djMzYw==",
@@ -140,16 +140,16 @@
     "text1": "A well-maintained home improves comfort, value, and energy efficiency. Our services are designed to keep your home clean, beautiful, and functional year-round."
   },
   "whatWeDo": {
-    "title": "Our Expertise in Home Maintenance & Renovation"
+    "title": "Our Expertise in Private and Commercial Space"
   },
   "weCover": {
     "title": "We got you covered!",
     "service1Title": "Deep & Regular Cleaning",
     "service1Description": "From top-to-bottom deep cleans to recurring maintenance, we help you keep your home fresh, healthy, and spotless.",
     "service2Title": "Interior & Exterior Painting",
-    "service2Description": "We paint walls, façades, trims, and everything in between, using high-quality paints and finishes that stand the test of time.",
-    "service3Title": "Room & Surface Renovation",
-    "service3Description": "Transform rooms, walls, ceilings, and more — our renovation services improve both appearance and structure.",
+    "service2Description": "We paint walls, facade, trims, and everything in between, using high-quality paints and finishes that stand the test of time.",
+    "service3Title": "Renovation & Construction Work",
+    "service3Description": "Transform roofs, walls, ceilings, and more — our construction team improves both appearance and structure.",
     "service4Title": "Roofing & Construction Work",
     "service4Description": "We handle roof repairs, rebuilding, and other construction-related projects to keep your home secure and efficient."
   },
@@ -161,7 +161,7 @@
     },
     "leftSection": {
       "title": "Free post-cleaning touch-up",
-      "description": "After each renovation or painting project, we offer a complimentary clean-up service so you can immediately enjoy your refreshed space."
+      "description": "After each construction or painting project, we offer a complimentary clean-up service so you can immediately enjoy your refreshed space."
     }
   },
   "aboutUs": {

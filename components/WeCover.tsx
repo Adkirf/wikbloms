@@ -75,6 +75,7 @@ export function WeCover({ dict }: { dict: Dictionary }) {
                             {dict.CTA.bookConsultation}
                         </a>
                     </div>
+
                 </div>
             </div>
         </section>

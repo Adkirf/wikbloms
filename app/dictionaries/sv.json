@@ -1,7 +1,7 @@
 {
   "home": {
-    "title": "Kompletta tjänster för hemförbättring och underhåll",
-    "description": "Förbättra ditt hem med våra professionella tjänster inom städning, målning och renovering. Vi kombinerar hantverksskicklighet med pålitliga resultat."
+    "title": "Kompletta hembyggnads- och underhållstjänster",
+    "description": "Förbättra ditt utrymme med våra professionella städ-, målnings- och byggtjänster. Vi kombinerar hantverksskicklighet med pålitliga resultat."
   },
   "about": {
     "title": "Om oss",
@@ -52,7 +52,7 @@
     "logoSrc": "/assets/prietosLogo.jpg"
   },
   "footer": {
-    "title": "Vi garanterar kvaliteten på dina hemförbättringar",
+    "title": "Ditt drömhem börjar med oss",
     "contact": "Kontakta oss",
     "phone": "+46704999277",
     "instagram": "https://www.instagram.com/wikbloms_ltd?igsh=MWVoZTV3YnR3djMzYw==",
@@ -88,7 +88,7 @@
     "text1": "Ett väl underhållet hem ökar komfort, värde och energieffektivitet. Våra tjänster är utformade för att hålla ditt hem rent, vackert och funktionellt året runt."
   },
   "whatWeDo": {
-    "title": "Vår expertis inom hemunderhåll och renovering"
+    "title": "Vår expertis inom privata och kommersiella lokaler"
   },
   "weCover": {
     "title": "Vi täcker upp för dig!",
@@ -96,8 +96,8 @@
     "service1Description": "Från storstädning till återkommande underhåll hjälper vi dig att hålla ditt hem fräscht, hälsosamt och skinande rent.",
     "service2Title": "Invändig & utvändig målning",
     "service2Description": "Vi målar väggar, fasader, lister och allt däremellan med högkvalitativa färger och ytbehandlingar som håller länge.",
-    "service3Title": "Rums- & ytrenovering",
-    "service3Description": "Förvandla rum, väggar, tak och mer – våra renoveringstjänster förbättrar både utseende och struktur.",
+    "service3Title": "Renovation & Construction Work",
+    "service3Description": "Transform roofs, walls, ceilings, and more — our construction team improves both appearance and structure.",
     "service4Title": "Tak- & byggnadsarbeten",
     "service4Description": "Vi utför takreparationer, ombyggnationer och andra byggrelaterade projekt för att hålla ditt hem säkert och effektivt."
   },
@@ -109,7 +109,7 @@
     },
     "leftSection": {
       "title": "Gratis efterstädning",
-      "description": "Efter varje renoverings- eller målningsprojekt erbjuder vi en kostnadsfri städservice så att du direkt kan njuta av ditt uppfräschade hem."
+      "description": "Efter varje byggnads- och målningsprojekt erbjuder vi en kostnadsfri städservice för att du direkt ska kunna njuta av ditt uppfräschade hem."
     }
   },
   "aboutUs": {

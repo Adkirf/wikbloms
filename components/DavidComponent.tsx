@@ -53,6 +53,8 @@ export default function DavidComponent({ dict, lang }: { dict: Dictionary, lang:
                             <p className="text-muted-foreground">{dict.weCover.service1Description}</p>
                             <h3 className="text-2xl font-semibold mb-4 mt-8 text-card-foreground">{dict.weCover.service2Title}</h3>
                             <p className="text-muted-foreground">{dict.weCover.service2Description}</p>
+                            <h3 className="text-2xl font-semibold mb-4 mt-8 text-card-foreground">{dict.weCover.service3Title}</h3>
+                            <p className="text-muted-foreground">{dict.weCover.service3Description}</p>
                         </div>
                     </div>
                 </div>
