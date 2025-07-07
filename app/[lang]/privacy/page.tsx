@@ -5,7 +5,7 @@ export default async function Privacy({ params: { lang } }: { params: { lang: st
 
     return (
         <div className="container mx-auto px-4 py-8">
-            <h1 className="text-3xl text-primary font-bold mb-8">{dict.privacy.title}</h1>
+            <h1 className="text-3xl text-primary font-bold mb-8 mt-24">{dict.privacy.title}</h1>
             <div className="space-y-6">
                 {dict.privacy.snippets.map((snippet, index) => (
                     <div key={index} className="space-y-2">

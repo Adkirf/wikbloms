@@ -56,7 +56,7 @@ export default function Footer({ dict, lang }: { dict: Dictionary, lang: string 
                         <h3 className="text-lg font-semibold mb-4">{dict.footer.legal}</h3>
                         <ul className="space-y-2">
                             <li>
-                                <Link href={`/${lang}`} className="hover:text-accent transition-colors">
+                                <Link href={`/${lang}/terms`} className="hover:text-accent transition-colors">
                                     {dict.footer.termsAndConditions}
                                 </Link>
                             </li>

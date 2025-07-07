@@ -1,122 +1,70 @@
 {
   "home": {
-    "title": "Expertos en Renovación de Ventanas",
-    "description": "Transforma tu hogar con nuestros servicios profesionales de renovación y restauración de ventanas. Combinamos artesanía tradicional con técnicas modernas."
+    "title": "Servicios completos de mejora y mantenimiento del hogar",
+    "description": "Mejora tu espacio con nuestros servicios profesionales de limpieza, pintura y renovación. Combinamos artesanía con resultados confiables."
   },
   "about": {
-    "title": "Sobre Nosotros",
-    "description": "Somos un equipo dedicado de profesionales especializados en servicios de renovación y pintura de ventanas en Estocolmo."
+    "title": "Sobre nosotros",
+    "description": "Somos un equipo dedicado de profesionales que ofrece servicios de limpieza, pintura y renovación para hogares y propiedades en todo Estocolmo."
   },
   "projects": {
-    "title": "Nuestros Proyectos",
+    "title": "Nuestros proyectos",
     "list": [
       {
         "title": "Brf Värduren 1 Södertälje",
         "images": [
-          {
-            "src": "/assets/project4/1.jpg",
-            "width": 800,
-            "height": 600
-          }
+          { "src": "/assets/project4/1.jpg", "width": 800, "height": 600 }
         ]
       },
       {
         "title": "Sällskapsvägen / Stora Essingen",
         "images": [
-          {
-            "src": "/assets/project1/1.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project1/2.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project1/3.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project1/4.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project1/5.jpg",
-            "width": 800,
-            "height": 600
-          }
+          { "src": "/assets/project1/1.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project1/2.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project1/3.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project1/4.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project1/5.jpg", "width": 800, "height": 600 }
         ]
       },
       {
         "title": "Igelkottsvägen / Bromma",
         "images": [
-          {
-            "src": "/assets/project2/1.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project2/2.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project2/3.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project2/4.jpg",
-            "width": 800,
-            "height": 600
-          }
+          { "src": "/assets/project2/1.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project2/2.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project2/3.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project2/4.jpg", "width": 800, "height": 600 }
         ]
       },
       {
-        "title": "Instalación de Ventanas Personalizadas para Casa Ecológica",
+        "title": "Djupdalsvägen / Bromma",
         "images": [
-          {
-            "src": "/assets/project3/1.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project3/2.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project3/3.jpg",
-            "width": 800,
-            "height": 600
-          }
+          { "src": "/assets/project3/1.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project3/2.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project3/3.jpg", "width": 800, "height": 600 }
         ]
       }
     ]
   },
   "header": {
     "home": "Inicio",
-    "about": "Sobre Nosotros",
+    "about": "Sobre nosotros",
     "contact": "Contacto",
     "logoSrc": "/assets/prietosLogo.jpg"
   },
   "footer": {
-    "title": "Garantizamos la calidad de tus ventanas",
+    "title": "Garantizamos la calidad de tus mejoras en el hogar",
     "contact": "Contáctanos",
     "phone": "+46704999277",
     "instagram": "https://www.instagram.com/wikbloms_ltd?igsh=MWVoZTV3YnR3djMzYw==",
     "email": "kontakt@wikbloms.se",
-    "openingHours": "Lun-Vie: 07:00 - 16:00",
     "address": "Ekbacksvägen 32, 168 69 Bromma",
-    "copyright": "© 2024 Servicios de Renovación y Pintura de Ventanas. Todos los derechos reservados.",
+    "openingHours": "Lun-Vie: 08:30 - 19:30",
+    "copyright": "© 2024 Servicios de mantenimiento y mejora del hogar. Todos los derechos reservados.",
     "followUs": "Síguenos",
     "facebook": "Facebook",
     "legal": "Legal",
-    "termsAndConditions": "Términos y Condiciones",
-    "privacyPolicy": "Política de Privacidad",
+    "termsAndConditions": "Términos y condiciones",
+    "privacyPolicy": "Política de privacidad",
     "allRightsReserved": "Todos los derechos reservados.",
     "logoSrc": "/assets/prietosLogo.jpg"
   },
@@ -129,80 +77,54 @@
   "CTA": {
     "contactUs": "Contáctanos",
     "bookConsultation": "Reserva una consulta gratuita",
-    "seeOurProjects": "Mire nuestros proyectos"
+    "seeOurProjects": "Ver nuestros proyectos"
   },
   "imageComparison": {
-    "title": "Calidad que Habla por Sí Misma",
-    "description": "Cada ventana que restauramos es tratada con el máximo cuidado y atención al detalle, garantizando tanto belleza como funcionalidad durante años.",
-    "before": {
-      "src": "/assets/before.jpg",
-      "alt": "Antes"
-    },
-    "after": {
-      "src": "/assets/after.jpg",
-      "alt": "Después"
-    }
+    "title": "Calidad que habla por sí misma",
+    "description": "Nuestro trabajo refleja nuestro compromiso con el detalle, ya sea una limpieza profunda, una nueva capa de pintura o una renovación completa."
   },
   "informative": {
-    "title": "¿Por Qué Elegir la Renovación de Ventanas?",
-    "text1": "Las ventanas históricas están construidas con materiales de alta calidad que pueden durar generaciones con el mantenimiento adecuado. Nuestros servicios de renovación preservan su carácter mientras mejoran la eficiencia energética.",
-    "text2": "Las ventanas antiguas de madera están hechas de madera de alta calidad y pueden durar muchos años después de una renovación profesional.",
-    "text3": "Nuestro vidrio energético recomendado está diseñado para reflejar la radiación de calor de onda larga, lo que mantiene hasta un 50% más de calor en el interior."
+    "title": "¿Por qué elegir el mantenimiento profesional del hogar?",
+    "text1": "Un hogar bien mantenido mejora la comodidad, el valor y la eficiencia energética. Nuestros servicios están diseñados para mantener tu hogar limpio, hermoso y funcional durante todo el año."
   },
   "whatWeDo": {
-    "title": "Nuestra Experiencia en Renovación de Ventanas"
+    "title": "Nuestra experiencia en mantenimiento y renovación del hogar"
   },
   "weCover": {
     "title": "¡Te cubrimos!",
-    "service1Title": "Restauración Profesional de Ventanas",
-    "service1Description": "Nos especializamos en restaurar ventanas históricas utilizando técnicas tradicionales y materiales de alta calidad, preservando su carácter original mientras mejoramos su funcionalidad.",
-    "service2Title": "Soluciones Energéticamente Eficientes",
-    "service2Description": "Nuestro proceso de renovación incluye técnicas modernas de climatización y opciones de vidrio energéticamente eficientes para mejorar el confort de tu hogar y reducir los costos de energía.",
-    "service3Title": "Reemplazo de vidrios",
-    "service3Description": "Reemplazamos todo tipo de vidrios, incluyendo vidrio energético que reduce los costos de energía.",
-    "service4Title": "Reparación de daños por pudrición",
-    "service4Description": "Reemplazo de partes o marcos completos de ventanas en caso de daño."
+    "service1Title": "Limpieza profunda y regular",
+    "service1Description": "Desde limpiezas profundas hasta mantenimiento recurrente, te ayudamos a mantener tu hogar fresco, saludable y reluciente.",
+    "service2Title": "Pintura interior y exterior",
+    "service2Description": "Pintamos paredes, fachadas, molduras y todo lo demás, utilizando pinturas y acabados de alta calidad que resisten el paso del tiempo.",
+    "service3Title": "Renovación de habitaciones y superficies",
+    "service3Description": "Transforma habitaciones, paredes, techos y más: nuestros servicios de renovación mejoran tanto la apariencia como la estructura.",
+    "service4Title": "Trabajos de techado y construcción",
+    "service4Description": "Realizamos reparaciones de techos, reconstrucciones y otros proyectos relacionados con la construcción para mantener tu hogar seguro y eficiente."
   },
   "ourService": {
-    "title": "Nuestro Servicio.",
-    "leftSection": {
-      "title": "Deducción Fiscal ROT Disponible",
-      "description": "Aprovecha la deducción fiscal ROT para mejoras del hogar. Obtén hasta un 50% de descuento en costos laborales, haciendo la renovación profesional de ventanas más asequible."
-    },
+    "title": "Nuestro servicio.",
     "rightSection": {
-      "title": "Limpieza de ventanas gratis",
-      "description": "Después de renovar tus ventanas, ofrecemos un servicio gratuito de limpieza para que puedas disfrutar plenamente de tus ventanas."
+      "title": "Deducción fiscal ROT disponible",
+      "description": "Aprovecha la deducción fiscal ROT para servicios en el hogar. Obtén hasta un 50% de descuento en costos de mano de obra, haciendo tus renovaciones y mejoras más asequibles."
+    },
+    "leftSection": {
+      "title": "Limpieza posterior gratuita",
+      "description": "Después de cada proyecto de renovación o pintura, ofrecemos un servicio de limpieza gratuito para que puedas disfrutar de tu espacio renovado de inmediato."
     }
   },
   "aboutUs": {
-    "slogan": "Las Mejores Ventanas en Estocolmo",
+    "slogan": "Los expertos de confianza en el hogar de Estocolmo",
     "images": [
-      {
-        "src": "/assets/about/1.jpg",
-        "width": 800,
-        "height": 600
-      },
-      {
-        "src": "/assets/about/2.jpg",
-        "width": 800,
-        "height": 600
-      },
-      {
-        "src": "/assets/about/3.jpg",
-        "width": 800,
-        "height": 600
-      },
-      {
-        "src": "/assets/about/3.jpg",
-        "width": 800,
-        "height": 600
-      }
+      { "src": "/assets/about/1.jpg", "width": 800, "height": 600 },
+      { "src": "/assets/about/2.jpg", "width": 800, "height": 600 },
+      { "src": "/assets/about/3.jpg", "width": 800, "height": 600 },
+      { "src": "/assets/about/3.jpg", "width": 800, "height": 600 }
     ],
     "descriptions": [
-      "Prietos Kompaniet comenzó como una visión - crear algo superior a través de años de experiencia, reforzado con disciplina y trabajo duro.",
+      "Prietos Kompaniet comenzó como una visión: crear algo superior a través de años de experiencia, reforzado con disciplina y trabajo duro.",
       "Lo que comenzó como un negocio unipersonal se convirtió en un equipo de profesionales calificados que comparten el mismo compromiso con la alta calidad.",
-      "Creemos que tu billetera y nuestro medio ambiente compartido deben tratarse de la misma manera - de forma sostenible",
-      "Tú nos dices lo que necesitas, y nosotros nos encargamos de todo lo demás - ¡Garantizamos la mejor calidad!"
+      "Creemos que tu billetera y nuestro entorno compartido deben ser tratados de la misma manera: de forma sostenible.",
+      "Tú nos dices lo que necesitas y nosotros nos encargamos de todo lo demás. ¡Garantizamos la mejor calidad!"
     ],
     "titles": [
       "De una visión a una empresa",
@@ -216,74 +138,131 @@
     "or": "o",
     "label": {
       "name": "Nombre",
-      "email": "Correo Electrónico",
+      "email": "Correo electrónico",
       "message": "Mensaje",
       "send": "Enviar",
       "sending": "Enviando...",
-      "phone": "Número de Teléfono"
+      "phone": "Número de teléfono"
     },
     "placeholder": {
-      "name": "Tu Nombre",
-      "email": "Tu Correo Electrónico",
-      "message": "Tu Mensaje",
-      "phone": "Tu Número de Teléfono"
+      "name": "Tu nombre",
+      "email": "Tu correo electrónico",
+      "message": "Tu mensaje",
+      "phone": "Tu número de teléfono"
     },
     "validation": {
-      "nameRequired": "Nombre es requerido",
-      "contactRequired": "Ingrese su correo electrónico o número de teléfono",
-      "tooManyRequests": "Espere 10 segundos antes de enviar nuevamente"
+      "nameRequired": "El nombre es obligatorio",
+      "contactRequired": "Por favor, ingresa tu correo electrónico o número de teléfono",
+      "tooManyRequests": "Por favor, espera 10 segundos antes de enviar nuevamente"
     }
   },
   "privacy": {
-    "title": "Nuestra Política de Privacidad",
+    "title": "Nuestra política de privacidad",
     "snippets": [
       {
         "title": "",
-        "text": "Nos preocupamos por tu privacidad y por eso estamos comprometidos a proteger los datos personales que tenemos sobre ti. Todo el procesamiento de tus datos personales se realiza de acuerdo con el Reglamento General de Protección de Datos (RGPD) y nuestra política describe qué derechos tienes y cómo ejercerlos."
+        "text": "Nos preocupamos por tu privacidad y estamos comprometidos a proteger los datos personales que compartes con nosotros. Todo el procesamiento de datos se realiza de acuerdo con el Reglamento General de Protección de Datos (RGPD). Esta política explica qué información recopilamos, por qué la recopilamos y tus derechos sobre tus datos personales."
       },
       {
         "title": "¿Qué son los datos personales?",
-        "text": "Los datos personales son cualquier información que pueda vincularse directa o indirectamente a una persona. Ejemplos de datos personales son: nombre, dirección, número de teléfono y número de identificación personal. Incluso los datos cifrados y varios tipos de identificadores electrónicos (por ejemplo, números IP) son datos personales si se pueden vincular a una persona. Ejemplos comunes incluyen: recopilar datos personales, registrarlos y organizarlos en un registro de clientes cuando nos contactas para obtener un presupuesto, almacenarlos en sistemas informáticos, transferirlos a otra persona y eliminarlos."
+        "text": "Los datos personales se refieren a cualquier información que pueda identificar directa o indirectamente a una persona. Esto incluye tu nombre, correo electrónico, número de teléfono y cualquier mensaje que envíes a través de nuestro formulario de contacto."
       },
       {
         "title": "¿Por qué recopilamos datos?",
-        "text": ""
+        "text": "Solo recopilamos datos personales para responder a tus consultas enviadas a través de nuestro formulario de contacto."
       },
       {
-        "title": "Gestionar solicitudes de presupuesto",
-        "text": "Cuando nos contactas para obtener un presupuesto, guardamos tu información de contacto para responder a tu consulta. También enviamos documentación de planos a nuestros proveedores donde aparece tu nombre."
+        "title": "Gestión de solicitudes de presupuesto",
+        "text": "Cuando te comunicas con nosotros a través del formulario de contacto, utilizamos la información que proporcionas para responder a tu solicitud. No se recopilan, almacenan ni comparten datos adicionales más allá de este propósito."
       },
       {
-        "title": "Gestionar solicitudes de contacto",
-        "text": ""
+        "title": "Gestión de solicitudes de contacto",
+        "text": "Solo utilizamos tu información para responderte después de que te hayas puesto en contacto con nosotros. No la utilizamos para boletines, marketing ni servicios de terceros."
       },
       {
-        "title": "Gestionar pedidos",
-        "text": "Además de utilizar tu información para gestionar tu pedido, la información puede utilizarse para informarte sobre lo que está sucediendo y para responder preguntas que nos hagas."
+        "title": "Gestión de pedidos",
+        "text": "Si tu solicitud de contacto da lugar a un pedido, utilizaremos tus datos únicamente para llevar a cabo ese servicio y cualquier comunicación necesaria relacionada con él."
       },
       {
         "title": "¿De quién se recopilan los datos personales?",
-        "text": "Los datos personales se recopilan directamente de ti cuando nos contactas. Los datos personales también pueden recopilarse del registro de direcciones personales del estado para asegurarnos de que tengamos la información correcta sobre ti, por ejemplo, si te mudas."
+        "text": "Todos los datos se recopilan directamente de ti a través del formulario de contacto. No recopilamos datos personales de fuentes o sistemas externos."
       },
       {
         "title": "¿Con quién se comparten los datos personales?",
-        "text": "Tus datos personales se comparten con varios socios como subcontratistas de servicios y con nuestros auditores, nuestro banco y el tuyo, y proveedores de nuestros sistemas informáticos que necesitamos para nuestras operaciones."
+        "text": "No compartimos tus datos personales con terceros a menos que la ley lo exija."
       },
       {
-        "title": "Base legal para el manejo de datos personales",
-        "text": "Tus datos personales se almacenan durante el tiempo que tengas un pedido con período de garantía y para nuestra contabilidad. Mantenemos tus datos personales durante el período de garantía para que puedas contactarnos si algo está mal. Guardamos tu información necesaria para nuestra contabilidad (como todos los pedidos, facturas y pagos) y documentación fiscal. Por ley, estos registros deben conservarse durante siete años. Para evitar procesar datos personales innecesariamente y sin motivo, eliminamos regularmente los datos personales que ya no se necesitan. Los datos se eliminan según los criterios anteriores.\nCuando procesamos tus datos personales, tienes los siguientes derechos:\n\nTienes derecho a saber qué datos personales procesamos sobre ti y puedes solicitar una copia de estos.\nTienes derecho a que se corrijan los datos personales incorrectos sobre ti.\nTienes derecho a solicitar que eliminemos tus datos personales (por ejemplo, si no tenemos motivo para procesarlos o si ya no das tu consentimiento). Incluso si nos pides que eliminemos tus datos personales, es posible que a veces necesitemos guardar ciertos datos personales, por ejemplo, cuando la ley lo requiere o si el procesamiento es necesario para defender o hacer valer nuestros intereses legales."
+        "title": "Base legal para el tratamiento de datos personales",
+        "text": "Procesamos tus datos en base a tu consentimiento cuando envías el formulario de contacto. Si tu solicitud da lugar a un acuerdo de servicio, tus datos también pueden ser tratados bajo una obligación legal (por ejemplo, leyes contables). Solo conservamos tus datos el tiempo necesario para cumplir con tu solicitud o cualquier servicio resultante."
       },
       {
         "title": "Nuestras obligaciones",
-        "text": "Nuestras obligaciones son ser responsables de cómo se procesan tus datos personales y determinar para qué fines se deben utilizar los datos."
+        "text": "Somos responsables de proteger tus datos personales y garantizar que solo se utilicen para fines legítimos. No almacenamos, analizamos ni revendemos tus datos."
       },
       {
-        "title": "Información de contacto si tienes preguntas o quieres ejercer tus derechos",
-        "text": "Si tienes preguntas sobre cómo procesamos tus datos personales o si quieres usar los derechos que tienes cuando procesamos tus datos personales, puedes contactarnos por correo electrónico: contacto@prietoskompaniet.se"
+        "title": "Información de contacto si tienes preguntas o deseas ejercer tus derechos",
+        "text": "Si tienes preguntas o deseas ejercer tus derechos sobre tus datos personales, contáctanos en: kontakt@wikbloms.se"
       },
       {
         "title": "Medidas de seguridad",
-        "text": "Tus datos personales se procesan de acuerdo con la ley y de manera segura. Existen procedimientos para proteger tus datos personales y salvaguardar tu privacidad. Por ejemplo, solo procesamos los datos personales que realmente necesitamos y somos cuidadosos al eliminar los datos personales cuando ya no se necesitan. Los sistemas utilizados para procesar datos personales se actualizan continuamente para ser lo suficientemente seguros, por ejemplo, a través de programas antivirus, cortafuegos y sistemas para detectar datos personales en varios sistemas informáticos. Somos controladores de datos en relación con nuestros clientes. Por lo tanto, exigimos y verificamos que nuestros socios procesen tus datos personales de manera segura y de acuerdo con la ley."
+        "text": "Procesamos todos los datos personales de forma segura y de acuerdo con la ley aplicable. Como solo utilizamos un formulario de contacto, los datos que envías se gestionan manualmente y no se almacenan en ningún sistema más allá de la comunicación por correo electrónico necesaria para responder a tu consulta."
+      }
+    ]
+  },
+  "terms": {
+    "company": "WIKBLOMS LIMITED UK Filial",
+    "address": "Ekbacksvägen 32, 168 69 Bromma",
+    "phone": "+46704999277",
+    "email": "kontakt@wikbloms.se",
+    "title": "Términos y condiciones",
+    "snippets": [
+      {
+        "title": "1. Introducción",
+        "text": "Estos términos y condiciones se aplican a todos los servicios proporcionados por Wikblom's. Al reservar nuestros servicios, aceptas los siguientes términos."
+      },
+      {
+        "title": "2. Servicios ofrecidos",
+        "text": "Wikblom's ofrece servicios de mejora y mantenimiento del hogar, incluyendo pero no limitado a limpieza, pintura, renovación y trabajos de construcción. Los servicios pueden ser proporcionados tanto a particulares como a propietarios de inmuebles comerciales."
+      },
+      {
+        "title": "3. Presupuestos y precios",
+        "text": "Proporcionamos presupuestos preliminares basados en el contacto inicial y podemos revisarlos después de una inspección in situ. El precio final se comunicará antes de comenzar el trabajo. Todos los precios se expresan en SEK y pueden estar sujetos a impuestos aplicables."
+      },
+      {
+        "title": "4. Reservas y pagos",
+        "text": "Un porcentaje del costo total se factura y paga por adelantado, de acuerdo con los requisitos legales. El saldo restante se paga al finalizar el trabajo. Aceptamos pagos mediante factura y transferencia bancaria directa."
+      },
+      {
+        "title": "5. Subcontratación",
+        "text": "Para proyectos relacionados con la construcción, podemos contratar subcontratistas cuidadosamente seleccionados de nuestra red de confianza. Todo el trabajo de pintura y limpieza lo realiza nuestro equipo interno."
+      },
+      {
+        "title": "6. Cancelaciones y reprogramaciones",
+        "text": "Actualmente no ofrecemos una política general de cancelación o reprogramación. Si es necesario realizar cambios, contáctanos directamente y haremos todo lo posible para atender solicitudes razonables."
+      },
+      {
+        "title": "7. Garantías y avales",
+        "text": "No se proporciona una garantía general. Se pueden ofrecer garantías específicas por escrito según el tipo de servicio y acuerdo."
+      },
+      {
+        "title": "8. Responsabilidad",
+        "text": "Wikblom's no se hace responsable de los daños causados por información incorrecta proporcionada por el cliente o por circunstancias fuera de nuestro control, como condiciones climáticas extremas o retrasos de terceros."
+      },
+      {
+        "title": "9. Quejas y disputas",
+        "text": "Cualquier queja debe presentarse por escrito lo antes posible después de descubrir el problema. Seguimos procedimientos estándar de la industria para resolver disputas y cumplimos con las leyes suecas de protección al consumidor."
+      },
+      {
+        "title": "10. Protección de datos",
+        "text": "Solo recopilamos y almacenamos los datos personales necesarios para llevar a cabo nuestros servicios, como los datos de contacto proporcionados a través de nuestro formulario de contacto. Para más información, consulta nuestra Política de Privacidad."
+      },
+      {
+        "title": "11. Cambios en los términos",
+        "text": "Wikblom's se reserva el derecho de actualizar estos términos y condiciones sin previo aviso. La versión actual siempre estará disponible en nuestro sitio web."
+      },
+      {
+        "title": "12. Ley aplicable",
+        "text": "Estos términos se rigen por la ley sueca. Cualquier disputa será resuelta por un tribunal sueco."
       }
     ]
   }

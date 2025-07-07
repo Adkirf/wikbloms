@@ -1,11 +1,11 @@
 {
   "home": {
-    "title": "Expert på Fönsterrenovering",
-    "description": "Förvandla ditt hem med våra professionella fönsterrenoveringstjänster. Vi kombinerar traditionellt hantverk med moderna tekniker."
+    "title": "Kompletta tjänster för hemförbättring och underhåll",
+    "description": "Förbättra ditt hem med våra professionella tjänster inom städning, målning och renovering. Vi kombinerar hantverksskicklighet med pålitliga resultat."
   },
   "about": {
     "title": "Om oss",
-    "description": "Vi är ett dedikerat team av proffs som specialiserar sig på fönsterrenovering och målningstjänster i Stockholm."
+    "description": "Vi är ett dedikerat team av proffs som erbjuder städning, målning och renoveringstjänster för hem och fastigheter i hela Stockholm."
   },
   "projects": {
     "title": "Våra projekt",
@@ -13,111 +13,53 @@
       {
         "title": "Brf Värduren 1 Södertälje",
         "images": [
-          {
-            "src": "/assets/project4/1.jpg",
-            "width": 800,
-            "height": 600
-          }
+          { "src": "/assets/project4/1.jpg", "width": 800, "height": 600 }
         ]
       },
       {
         "title": "Sällskapsvägen / Stora Essingen",
         "images": [
-          {
-            "src": "/assets/project1/1.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project1/2.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project1/3.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project1/4.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project1/5.jpg",
-            "width": 800,
-            "height": 600
-          }
+          { "src": "/assets/project1/1.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project1/2.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project1/3.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project1/4.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project1/5.jpg", "width": 800, "height": 600 }
         ]
       },
       {
         "title": "Igelkottsvägen / Bromma",
         "images": [
-          {
-            "src": "/assets/project2/1.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project2/2.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project2/3.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project2/4.jpg",
-            "width": 800,
-            "height": 600
-          }
+          { "src": "/assets/project2/1.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project2/2.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project2/3.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project2/4.jpg", "width": 800, "height": 600 }
         ]
       },
       {
         "title": "Djupdalsvägen / Bromma",
         "images": [
-          {
-            "src": "/assets/project3/1.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project3/2.jpg",
-            "width": 800,
-            "height": 600
-          },
-          {
-            "src": "/assets/project3/3.jpg",
-            "width": 800,
-            "height": 600
-          }
+          { "src": "/assets/project3/1.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project3/2.jpg", "width": 800, "height": 600 },
+          { "src": "/assets/project3/3.jpg", "width": 800, "height": 600 }
         ]
       }
     ]
   },
-  "contact": {
-    "title": "Kontakta oss",
-    "name": "Namn",
-    "email": "E-post",
-    "message": "Meddelande",
-    "send": "Skicka"
-  },
   "header": {
     "home": "Hem",
     "about": "Om oss",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "logoSrc": "/assets/prietosLogo.jpg"
   },
   "footer": {
-    "title": "Vi garanterar kvaliteten på dina fönster",
+    "title": "Vi garanterar kvaliteten på dina hemförbättringar",
     "contact": "Kontakta oss",
     "phone": "+46704999277",
     "instagram": "https://www.instagram.com/wikbloms_ltd?igsh=MWVoZTV3YnR3djMzYw==",
     "email": "kontakt@wikbloms.se",
     "address": "Ekbacksvägen 32, 168 69 Bromma",
-    "openingHours": "Mån-Fre: 07:00 - 16:00",
-    "copyright": "© 2024 Fönsterrenovering och målningstjänster. Alla rättigheter förbehållna.",
+    "openingHours": "Mån-Fre: 08:30 - 19:30",
+    "copyright": "© 2024 Tjänster för hemunderhåll och förbättring. Alla rättigheter förbehållna.",
     "followUs": "Följ oss",
     "facebook": "Facebook",
     "legal": "Juridiskt",
@@ -130,7 +72,7 @@
     "title": "Wikblom's",
     "videoSrc": "/assets/videohomprieto.mp4",
     "subtitle": "Ditt drömhem börjar med oss",
-    "videoError": "Din webbläsare stöder inte videospelaren."
+    "videoError": "Din webbläsare stöder inte videotaggen."
   },
   "CTA": {
     "contactUs": "Kontakta oss",
@@ -138,73 +80,56 @@
     "seeOurProjects": "Se våra projekt"
   },
   "imageComparison": {
-    "title": "Kvalitet Som Talar för Sig Själv",
-    "description": "Varje fönster vi restaurerar behandlas med största omsorg och uppmärksamhet på detaljer, vilket säkerställer både skönhet och funktionalitet i många år framöver."
+    "title": "Kvalitet som talar för sig själv",
+    "description": "Vårt arbete speglar vårt engagemang för detaljer, oavsett om det gäller en storstädning, ett nytt lager färg eller en totalrenovering."
   },
   "informative": {
-    "title": "Varför Välja Fönsterrenovering?",
-    "text1": "Historiska fönster är byggda med högkvalitativa material som kan hålla i generationer med rätt underhåll. Våra renoveringstjänster bevarar deras karaktär samtidigt som energieffektiviteten förbättras."
+    "title": "Varför välja professionellt hemunderhåll?",
+    "text1": "Ett väl underhållet hem ökar komfort, värde och energieffektivitet. Våra tjänster är utformade för att hålla ditt hem rent, vackert och funktionellt året runt."
   },
   "whatWeDo": {
-    "title": "Vår Expertis inom Fönsterrenovering"
+    "title": "Vår expertis inom hemunderhåll och renovering"
   },
   "weCover": {
     "title": "Vi täcker upp för dig!",
-    "service1Title": "Professionell Fönsterrestaurering",
-    "service1Description": "Vi är specialiserade på att restaurera historiska fönster med traditionella tekniker och högkvalitativa material, samtidigt som vi bevarar deras ursprungliga karaktär och förbättrar funktionaliteten.",
-    "service2Title": "Energieffektiva Lösningar",
-    "service2Description": "Vår renoveringsprocess inkluderar moderna tätningstekniker och energieffektiva glasalternativ för att förbättra ditt hems komfort och minska energikostnaderna.",
-    "service3Title": "Glasbyte",
-    "service3Description": "Vi byter alla typer av glas, inklusive energiglas som sänker energikostnaderna.",
-    "service4Title": "Reparation av rötskador",
-    "service4Description": "Byte av delar eller hela fönsterkarmar vid skador."
+    "service1Title": "Djup- & regelbunden städning",
+    "service1Description": "Från storstädning till återkommande underhåll hjälper vi dig att hålla ditt hem fräscht, hälsosamt och skinande rent.",
+    "service2Title": "Invändig & utvändig målning",
+    "service2Description": "Vi målar väggar, fasader, lister och allt däremellan med högkvalitativa färger och ytbehandlingar som håller länge.",
+    "service3Title": "Rums- & ytrenovering",
+    "service3Description": "Förvandla rum, väggar, tak och mer – våra renoveringstjänster förbättrar både utseende och struktur.",
+    "service4Title": "Tak- & byggnadsarbeten",
+    "service4Description": "Vi utför takreparationer, ombyggnationer och andra byggrelaterade projekt för att hålla ditt hem säkert och effektivt."
   },
   "ourService": {
-    "title": "Vår tjänst",
-    "leftSection": {
-      "title": "ROT-avdrag Tillgängligt",
-      "description": "Utnyttja ROT-avdraget för hembförbättringar. Få upp till 50% rabatt på arbetskostnaden, vilket gör professionell fönsterrenovering mer överkomlig."
-    },
+    "title": "Vår tjänst.",
     "rightSection": {
-      "title": "Gratis fönsterputsning",
-      "description": "Efter att vi har renoverat dina fönster, erbjuder vi en fri fönsterrengöringsservice så att du kan njuta av dina fönster."
+      "title": "ROT-avdrag tillgängligt",
+      "description": "Utnyttja ROT-avdraget för hemnära tjänster. Få upp till 50% rabatt på arbetskostnaden, vilket gör dina renoveringar och förbättringar mer prisvärda."
+    },
+    "leftSection": {
+      "title": "Gratis efterstädning",
+      "description": "Efter varje renoverings- eller målningsprojekt erbjuder vi en kostnadsfri städservice så att du direkt kan njuta av ditt uppfräschade hem."
     }
   },
   "aboutUs": {
-    "title": "Om oss",
-    "slogan": "Bästa fönsterrenovering och målningstjänster i Stockholm",
+    "slogan": "Stockholms pålitliga hemexperter",
     "images": [
-      {
-        "src": "/assets/about/1.jpg",
-        "width": 800,
-        "height": 600
-      },
-      {
-        "src": "/assets/about/2.jpg",
-        "width": 800,
-        "height": 600
-      },
-      {
-        "src": "/assets/about/3.jpg",
-        "width": 800,
-        "height": 600
-      },
-      {
-        "src": "/assets/about/3.jpg",
-        "width": 800,
-        "height": 600
-      }
+      { "src": "/assets/about/1.jpg", "width": 800, "height": 600 },
+      { "src": "/assets/about/2.jpg", "width": 800, "height": 600 },
+      { "src": "/assets/about/3.jpg", "width": 800, "height": 600 },
+      { "src": "/assets/about/3.jpg", "width": 800, "height": 600 }
     ],
     "descriptions": [
-      "Prietos Kompaniet började som en vision - att skapa något överlägset genom många års erfarenhet, förstärkt med disciplin och hårt arbete.",
-      "Det startades av en person och idag har vi stöd från flera mycket kompetenta arbetare på renoveringsmarknaden. Det är ett företag som är mycket stött av miljön genom att tillverka renoveringsprodukter med produkter som är godkända av arbetsmiljön.",
-      "Vi anser att din plånbok och vår gemensamma miljö måste behandlas på samma sätt - på ett hållbart sätt",
-      "Du berättar vad du behöver, så tar vi hand om allt annat - Vi garanterar bästa kvalitet!"
+      "Prietos Kompaniet började som en vision – att skapa något bättre genom många års erfarenhet, förstärkt av disciplin och hårt arbete.",
+      "Det som började som en enmansverksamhet blev ett team av skickliga yrkespersoner som alla delar samma engagemang för hög kvalitet.",
+      "Vi anser att din plånbok och vår gemensamma miljö måste behandlas på samma sätt – hållbart.",
+      "Du berättar vad du behöver, så tar vi hand om resten – vi garanterar bästa kvalitet!"
     ],
     "titles": [
-      "Från en vision till ett företag",
+      "Från vision till företag",
       "Från en person till ett kompetent team",
-      "Hållbarhet i hjärtat",
+      "Hållbarhet i fokus",
       "Kunden först, alltid"
     ]
   },
@@ -212,7 +137,7 @@
     "title": "Kontakta oss",
     "or": "eller",
     "label": {
-      "name": "Name",
+      "name": "Namn",
       "email": "E-post",
       "message": "Meddelande",
       "send": "Skicka",
@@ -227,7 +152,7 @@
     },
     "validation": {
       "nameRequired": "Namn är obligatoriskt",
-      "contactRequired": "Ange antingen e-post eller telefonnummer",
+      "contactRequired": "Ange din e-post eller telefonnummer",
       "tooManyRequests": "Vänta 10 sekunder innan du skickar igen"
     }
   },
@@ -236,51 +161,108 @@
     "snippets": [
       {
         "title": "",
-        "text": "Vi värnar om din integritet och därför är vi måna om att skydda de personuppgifter vi har om dig. All behandling av dina personuppgifter sker i enlighet med dataskyddsförordningen (GDPR) och vår policy beskriver vilka rättigheter du har och hur du gör dem gällande."
+        "text": "Vi värnar om din integritet och är engagerade i att skydda de personuppgifter du delar med oss. All databehandling sker i enlighet med dataskyddsförordningen (GDPR). Denna policy förklarar vilken information vi samlar in, varför vi samlar in den och dina rättigheter kring dina personuppgifter."
       },
       {
-        "title": "Vad är en personuppgift?",
-        "text": "Med personuppgifter menas all slags information som direkt eller indirekt kan kopplas till en person. Exempel på personuppgifter är: namn, adress, telefonnummer och personnummer. Även krypterade uppgifter och olika slags elektroniska identiteter (t.ex. IP-nummer) är personuppgifter om de kan kopplas till en person. Några vanliga exempel är: att samla in personuppgifter, att registrera och organisera dem i ett kundregister när du kontaktar oss för att få en offert, att lagra dem i t.ex. IT-system, att föra över dem till någon annan och att radera dem."
+        "title": "Vad är personuppgifter?",
+        "text": "Personuppgifter avser all information som direkt eller indirekt kan identifiera en individ. Detta inkluderar ditt namn, e-postadress, telefonnummer och meddelande du lämnar via vårt kontaktformulär."
       },
       {
         "title": "Varför samlar vi in uppgifter?",
-        "text": ""
+        "text": "Vi samlar endast in personuppgifter för att kunna svara på dina förfrågningar som skickas via vårt kontaktformulär."
       },
       {
-        "title": "Hantera offertförfrågan",
-        "text": "När du kontaktar oss för att få en offert sparar vi dina kontaktuppgifter för att kunna svara på din förfrågan. Vi vidarebefordrar även ritningsunderlag till våra underleverantörer där ditt namn förekommer."
+        "title": "Hantering av offertförfrågningar",
+        "text": "När du kontaktar oss via kontaktformuläret använder vi informationen du lämnar för att besvara din förfrågan. Ingen ytterligare data samlas in, lagras eller delas utöver detta syfte."
       },
       {
-        "title": "Hantera kontaktförfråga",
-        "text": ""
+        "title": "Hantering av kontaktförfrågningar",
+        "text": "Vi använder endast din information för att återkoppla till dig efter att du kontaktat oss. Vi använder den inte för nyhetsbrev, marknadsföring eller tredjepartstjänster."
       },
       {
-        "title": "Hantera beställning",
-        "text": "Utöver att dina uppgifter används för hantera din beställning kan uppgifterna användas för att informera dig om vad som är på gång och för att svara på frågor som du ställer till oss."
+        "title": "Hantering av beställningar",
+        "text": "Om din kontakt leder till en beställning använder vi dina uppgifter enbart för att utföra tjänsten och nödvändig kommunikation kring den."
       },
       {
-        "title": "Vem samlas personuppgifterna in från?",
-        "text": "Personuppgifterna samlas in direkt från dig i samband med att du kontaktar oss. Personuppgifterna kan även samlas in från statens personadressregister för att se till att vi har rätt uppgifter till dig, t.ex. om du flyttar."
+        "title": "Från vem samlas personuppgifter in?",
+        "text": "All data samlas in direkt från dig via kontaktformuläret. Vi samlar inte in personuppgifter från externa källor eller system."
       },
       {
-        "title": "Vem delas personuppgifterna med?",
-        "text": "Dina personuppgifter delas med olika samarbetspartners som t.ex. underleverantörer av tjänster och med våra revisorer, vår och din bank och leverantörer av våra IT-system som vi behöver för vår verksamhet."
+        "title": "Vem delas personuppgifter med?",
+        "text": "Vi delar inte dina personuppgifter med tredje part om det inte krävs enligt lag."
       },
       {
-        "title": "Rättslig grund till hantering av personuppgifter",
-        "text": "Dina personuppgifter sparas under tiden du har en beställning med garantitid och för vår bokföring. Vi sparar dina personuppgifter under garantitid, så att du kan kontakta oss om något är fel. Vi sparar dina uppgifter som behövs för vår bokföring (exempelvis alla beställningar, fakturor och betalningar) och skatteunderlag. Enligt lag måste dessa uppgifter sparas i sju år. För att inte behandla personuppgifter i onödan och utan anledning raderar vi regelbundet de personuppgifter som inte längre behövs. Uppgifterna raderas efter ovanstående kriterier.\nNär dina personuppgifter behandlas av oss har du följande rättigheter:\n\n Du har rätt att få veta vilka personuppgifter som vi behandlar om dig och kan be oss om en kopia av dessa.\nDu har rätt att få felaktiga personuppgifter om dig rättade.\nDu har rätt att be oss radera dina personuppgifter (t.ex. om vi inte har anledning att behandla dem eller om du inte längre samtycker). Även om du ber oss radera dina personuppgifter kan vi ibland behöva spara vissa personuppgifter, t.ex. när lagen kräver att vi gör det eller om behandlingen krävs för att kunna försvara eller göra gällande våra rättsliga intressen."
+        "title": "Rättslig grund för hantering av personuppgifter",
+        "text": "Vi behandlar dina uppgifter baserat på ditt samtycke när du skickar in kontaktformuläret. Om din förfrågan leder till ett tjänsteavtal kan dina uppgifter även behandlas enligt lagkrav (t.ex. bokföringslag). Vi sparar dina uppgifter endast så länge det behövs för att uppfylla din förfrågan eller tjänst."
       },
       {
         "title": "Våra skyldigheter",
-        "text": "Våra skyldigheter är att vara ansvarig för hur dina personuppgifter behandlas och bestämma för vilka ändamål uppgifterna ska användas till."
+        "text": "Vi ansvarar för att skydda dina personuppgifter och säkerställa att de endast används för legitima ändamål. Vi lagrar, analyserar eller säljer inte vidare dina uppgifter."
       },
       {
         "title": "Kontaktuppgifter om du har frågor eller vill utöva dina rättigheter",
-        "text": "Om du har frågor om hur vi behandlar dina personuppgifter eller om du vill använda de rättigheter du har när vi behandlar dina personuppgifter är du välkommen att kontakta per e-post: kontakt@prietoskompaniet.se"
+        "text": "Om du har frågor eller vill utöva dina rättigheter kring dina personuppgifter, kontakta oss på: kontakt@wikbloms.se"
       },
       {
         "title": "Säkerhetsåtgärder",
-        "text": "Dina personuppgifter behandlas enligt lagen och på ett säkert sätt. Rutiner finns för att skydda dina personuppgifter och värna din integritet. Till exempel behandlar vi bara sådana personuppgifter som vi verkligen behöver och är noga med att radera personuppgifter när de inte behövs längre. Kontinuerligt uppdateras de system som används för att behandla personuppgifter så att de är tillräckligt säkra t.ex. genom anti-virusprogram, brandväggar och system för att upptäcka personuppgifter i olika IT-system. Vi är personuppgiftsansvariga gentemot våra kunder. Vi kräver således och kontrollerar även att våra samarbetspartners behandlar dina personuppgifter på ett säkert sätt och enligt lag."
+        "text": "Vi behandlar alla personuppgifter säkert och enligt gällande lag. Eftersom vi endast använder ett kontaktformulär hanteras de uppgifter du skickar manuellt och lagras inte i något system utöver den e-postkommunikation som krävs för att besvara din förfrågan."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Villkor",
+    "company": "WIKBLOMS LIMITED UK Filial",
+    "address": "Ekbacksvägen 32, 168 69 Bromma",
+    "phone": "+46704999277",
+    "email": "kontakt@wikbloms.se",
+    "snippets": [
+      {
+        "title": "1. Introduktion",
+        "text": "Dessa villkor gäller för alla tjänster som tillhandahålls av Wikblom's. Genom att boka våra tjänster godkänner du följande villkor."
+      },
+      {
+        "title": "2. Tjänster som erbjuds",
+        "text": "Wikblom's erbjuder tjänster inom hemförbättring och underhåll, inklusive men inte begränsat till städning, målning, renovering och byggnadsarbeten. Tjänster kan erbjudas både till privatpersoner och kommersiella fastighetsägare."
+      },
+      {
+        "title": "3. Offert och prissättning",
+        "text": "Vi lämnar preliminära offerter baserat på första kontakt och kan revidera dessa efter platsbesök. Slutgiltigt pris meddelas innan arbetet påbörjas. Alla priser anges i SEK och kan vara föremål för tillämpliga skatter."
+      },
+      {
+        "title": "4. Bokning och betalning",
+        "text": "En procentandel av den totala kostnaden faktureras och betalas i förskott, i enlighet med lagkrav. Resterande belopp betalas vid slutfört arbete. Vi accepterar betalning via faktura och direkt banköverföring."
+      },
+      {
+        "title": "5. Underentreprenörer",
+        "text": "Vid byggrelaterade projekt kan vi anlita noggrant utvalda underentreprenörer från vårt nätverk. Allt målnings- och städarbete utförs av vårt eget team."
+      },
+      {
+        "title": "6. Avbokning och ombokning",
+        "text": "Vi erbjuder för närvarande ingen generell avboknings- eller ombokningspolicy. Om ändringar behövs, kontakta oss direkt så försöker vi tillmötesgå rimliga önskemål."
+      },
+      {
+        "title": "7. Garantier och ansvar",
+        "text": "Ingen generell garanti lämnas. Projektspecifika garantier kan erbjudas skriftligen beroende på typ av tjänst och avtal."
+      },
+      {
+        "title": "8. Ansvar",
+        "text": "Wikblom's ansvarar inte för skador som orsakats av felaktig information från kunden eller för omständigheter utanför vår kontroll, såsom extremt väder eller förseningar från tredje part."
+      },
+      {
+        "title": "9. Klagomål och tvister",
+        "text": "Eventuella klagomål ska lämnas skriftligen så snart som möjligt efter att problemet upptäckts. Vi följer branschstandard vid tvistlösning och följer svensk konsumentskyddslagstiftning."
+      },
+      {
+        "title": "10. Dataskydd",
+        "text": "Vi samlar endast in och lagrar personuppgifter som är nödvändiga för att utföra våra tjänster, såsom kontaktuppgifter via kontaktformuläret. För mer information, se vår integritetspolicy."
+      },
+      {
+        "title": "11. Ändringar av villkor",
+        "text": "Wikblom's förbehåller sig rätten att uppdatera dessa villkor utan föregående meddelande. Den aktuella versionen finns alltid på vår webbplats."
+      },
+      {
+        "title": "12. Tillämplig lag",
+        "text": "Dessa villkor regleras av svensk lag. Eventuella tvister hanteras av svensk domstol."
       }
     ]
   }

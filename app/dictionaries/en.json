@@ -1,11 +1,11 @@
 {
   "home": {
-    "title": "Expert Window Renovation Services",
-    "description": "Transform your home with our professional window renovation and restoration services. We combine traditional craftsmanship with modern techniques."
+    "title": "Complete Home Improvement & Maintenance Services",
+    "description": "Enhance your living space with our professional cleaning, painting, and renovation services. We combine craftsmanship with dependable results."
   },
   "about": {
     "title": "About Us",
-    "description": "We are a dedicated team of professionals specializing in window renovation and painting services in Stockholm."
+    "description": "We are a dedicated team of professionals offering cleaning, painting, and renovation services for homes and properties throughout Stockholm."
   },
   "projects": {
     "title": "Our Projects",
@@ -104,14 +104,14 @@
     "logoSrc": "/assets/prietosLogo.jpg"
   },
   "footer": {
-    "title": "We guarantee the quality of your windows",
+    "title": "We guarantee the quality of your home improvements",
     "contact": "Contact us",
     "phone": "+46704999277",
     "instagram": "https://www.instagram.com/wikbloms_ltd?igsh=MWVoZTV3YnR3djMzYw==",
     "email": "kontakt@wikbloms.se",
     "address": "Ekbacksvägen 32, 168 69 Bromma",
-    "openingHours": "Mon-Fri: 07:00 - 16:00",
-    "copyright": "© 2024 Window Renovation and Painting Services. All rights reserved.",
+    "openingHours": "Mon-Fri: 08:30 - 19:30",
+    "copyright": "© 2024 Home Maintenance and Improvement Services. All rights reserved.",
     "followUs": "Follow Us",
     "facebook": "Facebook",
     "legal": "Legal",
@@ -133,39 +133,39 @@
   },
   "imageComparison": {
     "title": "Quality That Speaks for Itself",
-    "description": "Every window we restore is treated with the utmost care and attention to detail, ensuring both beauty and functionality for years to come."
+    "description": "Our work reflects our commitment to detail, whether it's a deep clean, a fresh coat of paint, or a complete renovation."
   },
   "informative": {
-    "title": "Why Choose Window Renovation?",
-    "text1": "Historic windows are built with high-quality materials that can last for generations with proper maintenance. Our renovation services preserve their character while improving energy efficiency."
+    "title": "Why Choose Professional Home Maintenance?",
+    "text1": "A well-maintained home improves comfort, value, and energy efficiency. Our services are designed to keep your home clean, beautiful, and functional year-round."
   },
   "whatWeDo": {
-    "title": "Our Expertise in Window Renovation"
+    "title": "Our Expertise in Home Maintenance & Renovation"
   },
   "weCover": {
     "title": "We got you covered!",
-    "service1Title": "Professional Window Restoration",
-    "service1Description": "We specialize in restoring historic windows using traditional techniques and high-quality materials, preserving their original character while improving functionality.",
-    "service2Title": "Energy-Efficient Solutions",
-    "service2Description": "Our renovation process includes modern weatherization techniques and energy-efficient glass options to improve your home's comfort and reduce energy costs.",
-    "service3Title": "Glass replacement",
-    "service3Description": "We replace all types of glass, including energy glass that reduces energy costs.",
-    "service4Title": "Repairing rot damage",
-    "service4Description": "Replacing parts or entire window frames in case of damage."
+    "service1Title": "Deep & Regular Cleaning",
+    "service1Description": "From top-to-bottom deep cleans to recurring maintenance, we help you keep your home fresh, healthy, and spotless.",
+    "service2Title": "Interior & Exterior Painting",
+    "service2Description": "We paint walls, façades, trims, and everything in between, using high-quality paints and finishes that stand the test of time.",
+    "service3Title": "Room & Surface Renovation",
+    "service3Description": "Transform rooms, walls, ceilings, and more — our renovation services improve both appearance and structure.",
+    "service4Title": "Roofing & Construction Work",
+    "service4Description": "We handle roof repairs, rebuilding, and other construction-related projects to keep your home secure and efficient."
   },
   "ourService": {
     "title": "Our Service.",
-    "leftSection": {
-      "title": "ROT Tax Deduction Available",
-      "description": "Take advantage of the ROT tax deduction for home improvements. Get up to 50% off labor costs, making professional window renovation more affordable."
-    },
     "rightSection": {
-      "title": "Free window cleaning",
-      "description": "After we have renovated your windows, we offer a free window cleaning service so that you can fully enjoy your windows."
+      "title": "ROT Tax Deduction Available",
+      "description": "Take advantage of the ROT tax deduction for home services. Get up to 50% off labor costs, making your renovations and improvements more affordable."
+    },
+    "leftSection": {
+      "title": "Free post-cleaning touch-up",
+      "description": "After each renovation or painting project, we offer a complimentary clean-up service so you can immediately enjoy your refreshed space."
     }
   },
   "aboutUs": {
-    "slogan": "Best Windows in Stockholm",
+    "slogan": "Stockholm's Trusted Home Experts",
     "images": [
       {
         "src": "/assets/about/1.jpg",
@@ -220,8 +220,8 @@
     },
     "validation": {
       "nameRequired": "Name is required",
-      "contactRequired": "Either email or phone number is required",
-      "tooManyRequests": "Please wait 10 seconds before submitting again"
+      "contactRequired": "Please enter your email or phone number",
+      "tooManyRequests": "Please wait 10 seconds before sending again"
     }
   },
   "privacy": {
@@ -229,51 +229,108 @@
     "snippets": [
       {
         "title": "",
-        "text": "We care about your privacy and therefore we are committed to protecting the personal data we have about you. All processing of your personal data is carried out in accordance with the General Data Protection Regulation (GDPR) and our policy describes what rights you have and how to exercise them."
+        "text": "We care about your privacy and are committed to protecting the personal data you share with us. All data processing is done in accordance with the General Data Protection Regulation (GDPR). This policy explains what information we collect, why we collect it, and your rights regarding your personal data."
       },
       {
-        "title": "What is personal data?",
-        "text": "Personal data means any information that can directly or indirectly be linked to a person. Examples of personal data are: name, address, phone number, and personal identification number. Even encrypted data and various types of electronic identifiers (e.g., IP numbers) are personal data if they can be linked to a person. Common examples include: collecting personal data, registering and organizing them in a customer register when you contact us for a quote, storing them in IT systems, transferring them to someone else, and deleting them."
+        "title": "What are personal data?",
+        "text": "Personal data refers to any information that can directly or indirectly identify an individual. This includes your name, email address, phone number, and any message you provide through our contact form."
       },
       {
         "title": "Why do we collect data?",
-        "text": ""
+        "text": "We only collect personal data in order to respond to your inquiries sent through our contact form."
       },
       {
-        "title": "Handle quote requests",
-        "text": "When you contact us for a quote, we save your contact information to respond to your inquiry. We also forward drawing documentation to our suppliers where your name appears."
+        "title": "Managing quote requests",
+        "text": "When you reach out to us via the contact form, we use the information you provide to answer your request. No additional data is collected, stored, or shared beyond this purpose."
       },
       {
-        "title": "Handle contact requests",
-        "text": ""
+        "title": "Managing contact requests",
+        "text": "We only use your information to get back to you after you have contacted us. We do not use it for newsletters, marketing, or third-party services."
       },
       {
-        "title": "Handle orders",
-        "text": "In addition to using your information to handle your order, the information may be used to inform you about what's happening and to answer questions you ask us."
+        "title": "Managing orders",
+        "text": "If your contact request leads to an order, we will use your data solely to carry out that service and any required communication related to it."
       },
       {
-        "title": "Who is personal data collected from?",
-        "text": "Personal data is collected directly from you when you contact us. Personal data may also be collected from the state's personal address register to ensure we have the correct information about you, e.g., if you move."
+        "title": "From whom are personal data collected?",
+        "text": "All data is collected directly from you through the contact form. We do not collect personal data from any external sources or systems."
       },
       {
-        "title": "Who is personal data shared with?",
-        "text": "Your personal data is shared with various partners such as service subcontractors and with our auditors, our and your bank, and suppliers of our IT systems that we need for our operations."
+        "title": "With whom are personal data shared?",
+        "text": "We do not share your personal data with third parties unless legally required to do so."
       },
       {
         "title": "Legal basis for handling personal data",
-        "text": "Your personal data is stored during the time you have an order with warranty period and for our accounting. We keep your personal data during the warranty period so you can contact us if something is wrong. We save your information needed for our accounting (such as all orders, invoices, and payments) and tax documentation. By law, these records must be kept for seven years. To avoid processing personal data unnecessarily and without reason, we regularly delete personal data that is no longer needed. Data is deleted according to the above criteria.\nWhen your personal data is processed by us, you have the following rights:\n\nYou have the right to know what personal data we process about you and can request a copy of this.\nYou have the right to have incorrect personal data about you corrected.\nYou have the right to request that we delete your personal data (e.g., if we have no reason to process them or if you no longer consent). Even if you ask us to delete your personal data, we may sometimes need to save certain personal data, e.g., when the law requires it or if processing is required to defend or assert our legal interests."
+        "text": "We process your data based on your consent when you submit the contact form. If your request results in a service agreement, your data may also be processed under a legal obligation (e.g., accounting laws). We only keep your data as long as needed to fulfill your request or any resulting service."
       },
       {
         "title": "Our obligations",
-        "text": "Our obligations are to be responsible for how your personal data is processed and determine for what purposes the data should be used."
+        "text": "We are responsible for protecting your personal data and ensuring it is only used for legitimate purposes. We do not store, analyze, or resell your data."
       },
       {
         "title": "Contact information if you have questions or want to exercise your rights",
-        "text": "If you have questions about how we process your personal data or if you want to use the rights you have when we process your personal data, you are welcome to contact us by email: contact@prietoskompaniet.se"
+        "text": "If you have questions or wish to exercise your rights regarding your personal data, please contact us at: kontakt@wikbloms.se"
       },
       {
         "title": "Security measures",
-        "text": "Your personal data is processed according to law and in a secure manner. Procedures exist to protect your personal data and safeguard your privacy. For example, we only process such personal data that we really need and are careful to delete personal data when they are no longer needed. The systems used to process personal data are continuously updated to be sufficiently secure, e.g., through anti-virus programs, firewalls, and systems to detect personal data in various IT systems. We are data controllers in relation to our customers. We thus require and verify that our partners process your personal data in a secure manner and according to law."
+        "text": "We process all personal data securely and in accordance with applicable laws. As we only use a contact form, the data you send is handled manually and not stored in any system beyond the email communication required to answer your inquiry."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms and Conditions",
+    "company": "WIKBLOMS LIMITED UK Filial",
+    "address": "Ekbacksvägen 32, 168 69 Bromma",
+    "phone": "+46704999277",
+    "email": "kontakt@wikbloms.se",
+    "snippets": [
+      {
+        "title": "1. Introduction",
+        "text": "These terms and conditions apply to all services provided by Wikblom’s. By booking our services, you agree to the following terms."
+      },
+      {
+        "title": "2. Services Offered",
+        "text": "Wikblom’s provides home improvement and maintenance services including but not limited to cleaning, painting, renovation, and construction work. Services may be provided to both private individuals and commercial property owners."
+      },
+      {
+        "title": "3. Quotes and Pricing",
+        "text": "We provide preliminary quotes based on initial contact and may revise these after an on-site inspection. Final pricing will be communicated before work begins. All prices are stated in SEK and may be subject to applicable taxes."
+      },
+      {
+        "title": "4. Booking and Payments",
+        "text": "A percentage of the total cost is invoiced and payable upfront, in accordance with legal requirements. The remaining balance is due upon completion of the work. We accept payment via invoice and direct bank transfer."
+      },
+      {
+        "title": "5. Subcontracting",
+        "text": "For construction-related projects, we may engage carefully selected subcontractors from our trusted network. All painting and cleaning work is performed by our in-house team."
+      },
+      {
+        "title": "6. Cancellations and Rescheduling",
+        "text": "We do not currently offer a general cancellation or rescheduling policy. If changes are necessary, please contact us directly and we will do our best to accommodate reasonable requests."
+      },
+      {
+        "title": "7. Warranties and Guarantees",
+        "text": "No general warranty is provided. Project-specific guarantees may be offered in writing depending on the type of service and agreement."
+      },
+      {
+        "title": "8. Liability",
+        "text": "Wikblom’s is not liable for damages caused by incorrect information provided by the client or for circumstances beyond our control, such as extreme weather or third-party delays."
+      },
+      {
+        "title": "9. Complaints and Disputes",
+        "text": "Any complaints should be submitted in writing as soon as possible after the issue is discovered. We follow industry-standard procedures in resolving disputes and comply with Swedish consumer protection laws."
+      },
+      {
+        "title": "10. Data Protection",
+        "text": "We only collect and store personal data necessary to carry out our services, such as contact details provided through our contact form. For more information, see our Privacy Policy."
+      },
+      {
+        "title": "11. Changes to Terms",
+        "text": "Wikblom’s reserves the right to update these terms and conditions without prior notice. The current version will always be available on our website."
+      },
+      {
+        "title": "12. Governing Law",
+        "text": "These terms are governed by Swedish law. Any disputes will be handled by a Swedish court of law."
       }
     ]
   }
